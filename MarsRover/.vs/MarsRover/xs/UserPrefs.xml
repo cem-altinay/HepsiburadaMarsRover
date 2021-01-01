@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{3A245220-D48B-4355-B1CB-D0C4195FFF9A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarsRover.ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="MarsRover.ConsoleApp/Program.cs" Line="15" Column="1" />
+      <File FileName="MarsRover.Test/UnitTest1.cs" Line="21" Column="10" />
+      <File FileName="MarsRover.Application/Constants/DirectionEnumeration.cs" Line="30" Column="1" />
+      <File FileName="MarsRover.Application/Constants/CommandType.cs" Line="13" Column="1" />
+      <File FileName="MarsRover.Application/Abstract/IDirection.cs" Line="12" Column="54" />
+      <File FileName="MarsRover.Application/Model/Position.cs" Line="25" Column="40" />
+      <File FileName="MarsRover.Application/Constants/Messages.cs" Line="8" Column="54" />
+      <File FileName="MarsRover.Application/MoveCommand/EastCommand.cs" Line="9" Column="14" />
+      <File FileName="MarsRover.Application/MoveCommand/NorthCommand.cs" Line="9" Column="8" />
+      <File FileName="MarsRover.Application/MoveCommand/WestCommand.cs" Line="23" Column="36" />
+      <File FileName="MarsRover.Application/MoveCommand/SouthCommand.cs" Line="10" Column="19" />
+      <File FileName="MarsRover.Application/Model/Rover.cs" Line="30" Column="1" />
+      <File FileName="MarsRover.Application/DirectionCreateCommand.cs" Line="13" Column="88" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarsRover" expanded="True" selected="True">
+            <Node name="MarsRover.Application" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Constants" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="MoveCommand" expanded="True" />
+            </Node>
+            <Node name="MarsRover.ConsoleApp" expanded="True" />
+            <Node name="MarsRover.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MarsRover.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

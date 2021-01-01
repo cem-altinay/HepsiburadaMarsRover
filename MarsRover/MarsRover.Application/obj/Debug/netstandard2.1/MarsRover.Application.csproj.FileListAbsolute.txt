@@ -1,0 +1,9 @@
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/bin/Debug/netstandard2.1/MarsRover.Application.deps.json
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/bin/Debug/netstandard2.1/MarsRover.Application.dll
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/bin/Debug/netstandard2.1/MarsRover.Application.pdb
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/Debug/netstandard2.1/MarsRover.Application.csprojAssemblyReference.cache
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/Debug/netstandard2.1/MarsRover.Application.AssemblyInfoInputs.cache
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/Debug/netstandard2.1/MarsRover.Application.AssemblyInfo.cs
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/Debug/netstandard2.1/MarsRover.Application.csproj.CoreCompileInputs.cache
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/Debug/netstandard2.1/MarsRover.Application.dll
+/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/Debug/netstandard2.1/MarsRover.Application.pdb

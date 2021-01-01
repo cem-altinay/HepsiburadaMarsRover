@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/cemaltinay/.dotnet/store/|arch|/|tfm|",
+      "/Users/cemaltinay/.nuget/packages"
+    ]
+  }
+}

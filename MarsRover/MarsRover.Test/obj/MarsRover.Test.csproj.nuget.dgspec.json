@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj",
+        "projectName": "MarsRover.Application",
+        "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj",
+        "packagesPath": "/Users/cemaltinay/.nuget/packages/",
+        "outputPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cemaltinay/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+        "projectName": "MarsRover.Test",
+        "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+        "packagesPath": "/Users/cemaltinay/.nuget/packages/",
+        "outputPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cemaltinay/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
+                "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
