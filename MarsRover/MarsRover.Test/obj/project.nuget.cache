@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "anjU2tN/06Awe3dypw7IqFrqfj4UC6Xxa0mxbjefaltHYTRhER+B6yzJ6I27LXB2EgerBkrVF+KFzD9Etn329g==",
+  "dgSpecHash": "+GKvZFiOq08s2t+pD0qaGsOki95HB2HHmyedA1jNaqpW/lZWqYbvUONeagywMQAqg1GFEwn9NOnQ2c6m8qXc9w==",
   "success": true,
-  "projectFilePath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+  "projectFilePath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
   "expectedPackageFiles": [
     "/Users/cemaltinay/.nuget/packages/coverlet.collector/1.3.0/coverlet.collector.1.3.0.nupkg.sha512",
     "/Users/cemaltinay/.nuget/packages/microsoft.codecoverage/16.7.1/microsoft.codecoverage.16.7.1.nupkg.sha512",

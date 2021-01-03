@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.ConsoleApp/MarsRover.ConsoleApp.csproj",
+      "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.ConsoleApp/MarsRover.ConsoleApp.csproj",
       "projectName": "MarsRover.ConsoleApp",
-      "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.ConsoleApp/MarsRover.ConsoleApp.csproj",
+      "projectPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.ConsoleApp/MarsRover.ConsoleApp.csproj",
       "packagesPath": "/Users/cemaltinay/.nuget/packages/",
-      "outputPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.ConsoleApp/obj/",
+      "outputPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cemaltinay/.config/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
-              "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj"
+            "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
+              "projectPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj"
             }
           }
         }

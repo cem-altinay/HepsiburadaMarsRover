@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6LipOUnjKCUgQ0RZT9c9HwdJCw0aYRowUqbX4yxTzqPUVvUINyXsUUiP4Jei+nPOPyWiQE2Cl1/6Os8wJXHl+Q==",
+  "dgSpecHash": "wJ9rtlE4HJHj7wI7VxlrsbwKcqXE6kpisnr7ubFZGwtOdio3YPnP0vHnqgugxWT3ontONt/JA7NQoDVbbED8sQ==",
   "success": true,
-  "projectFilePath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.ConsoleApp/MarsRover.ConsoleApp.csproj",
+  "projectFilePath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.ConsoleApp/MarsRover.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

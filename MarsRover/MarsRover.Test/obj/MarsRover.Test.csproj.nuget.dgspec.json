@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {}
+    "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {}
   },
   "projects": {
-    "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
+    "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj",
+        "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj",
         "projectName": "MarsRover.Application",
-        "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj",
+        "projectPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj",
         "packagesPath": "/Users/cemaltinay/.nuget/packages/",
-        "outputPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/obj/",
+        "outputPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cemaltinay/.config/NuGet/NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {
+    "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+        "projectUniqueName": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
         "projectName": "MarsRover.Test",
-        "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+        "projectPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
         "packagesPath": "/Users/cemaltinay/.nuget/packages/",
-        "outputPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Test/obj/",
+        "outputPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cemaltinay/.config/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
-                "projectPath": "/Users/cemaltinay/Desktop/Dot Net/MarsRover/MarsRover.Application/MarsRover.Application.csproj"
+              "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj": {
+                "projectPath": "/Users/cemaltinay/Desktop/Dot Net/HepsiburadaMarsRover/MarsRover/MarsRover.Application/MarsRover.Application.csproj"
               }
             }
           }

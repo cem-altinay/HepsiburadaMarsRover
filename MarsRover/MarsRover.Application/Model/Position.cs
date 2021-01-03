@@ -40,5 +40,11 @@ namespace MarsRover.Application.Model
                 throw new Exception(Messages.IncorrectDirectionType);
 
         }
+
+        public override string ToString()
+        {
+            return $"{X}{Y}{FaceDirectionType}";
+
+        }
     }
 }
