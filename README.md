@@ -1,6 +1,28 @@
 # Hepsiburada Mars Rover
- 
+ <strong>Process Steps:</strong>
+ <ul>
+ <li>
+  The text below has been translated into Turkish
+ </li>
+ <li>
+  In order to better understand the desired problem, a demo was drawn on paper and an idea was obtained about how the process was.
+ </li>
+ <li>
+  Application named Net 5 MarsRover was created
+ </li>
+ <li>
+  The work on paper made for the application has been moved to the Images folder
+ </li>
+ <li>
+In the application, the information about which direction to go was determined according to the incoming command. The directions on the right and left sides change according to the direction information in each incoming command. For this reason, a separate command object was created in each 4 directions. The position of the existing object was changed according to the command type in each command object.
+  
+For example, if a vehicle that shows North as a position is commanded to turn to the right, its direction will turn east, if the command is to turn left, it will turn to West.
 
+Coding was done according to the above process
+  </li>
+ </ul>
+
+<hr>
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is curiously rectangular, must be navigated by the rovers so that their on board cameras can get a complete view of the surrounding terrain to send back to Earth.
 
 A rover's position and location is represented by a combination of x and y co-ordinates and a letter representing one of the four cardinal compass points. The plateau is divided up into a grid to simplify navigation. An example position might be 0, 0, N, which means the rover is in the bottom left corner and facing North.
@@ -19,9 +41,14 @@ Each rover will be finished sequentially, which means that the second rover won'
 
 Output:
 The output for each rover should be its final co-ordinates and heading.
+
 Input and Output
 Test Input:
-55
-12N LMLMLMLMM 33E MMRMMRMRRM
-Expected Output: 13N
+55 <br>
+12N <br>
+LMLMLMLMM <br>
+33E <br>
+MMRMMRMRRM <br>
+Expected Output: <br>
+13N
 51E
