@@ -1,9 +1,7 @@
 # Hepsiburada Mars Rover
  <strong>Process Steps:</strong>
  <ul>
- <li>
-  The text below has been translated into Turkish
- </li>
+
  <li>
   In order to better understand the desired problem, a demo was drawn on paper and an idea was obtained about how the process was.
  </li>
